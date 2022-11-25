@@ -1,0 +1,16 @@
+h1{
+    font: arial;
+    font-size: 20px;
+    color: darkgreen;
+    background-color: aquamarine;
+}
+.fundo{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbpKBxkfMkXztqgbKjsPKNWt2mOV5PFeKcVw&usqp=CAU");
+    width: 960px;
+    height: 3500px;
+}
+body{
+    background-color: cadetblue;
+    font: arial;
+    color: chartreuse;
+}
